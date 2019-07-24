@@ -1,0 +1,16 @@
+{
+  "name": "websocket-driver-station",
+  "version": "1.0.0",
+  "description": "A test for websocket based robot control",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gamepad": "^1.6.0",
+    "ws": "^7.1.0"
+  }
+}
