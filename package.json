@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "gamepad": "^1.6.0",
-    "ws": "^7.1.0"
+    "ws": "^7.4.6"
   }
 }
